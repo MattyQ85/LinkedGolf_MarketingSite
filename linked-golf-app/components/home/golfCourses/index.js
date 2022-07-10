@@ -29,7 +29,7 @@ const GolfCoursesSection = () => {
                 Linked Golf app allows you to maintain friendships over a
                 lifetime. Think of how much golf can be played! Or think about
                 how much golf you could be missing out on by not having the
-                Linked Golf app. Just saying.
+                Linked Golf app. Just saying..
               </p>
             </div>
           </div>
