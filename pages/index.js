@@ -17,7 +17,7 @@ export default function Home() {
       <Head>
         <title>
           Linked Golf | LinkedGolf is an app designed to help you build your
-          golf network.
+          golf network
         </title>
         <meta
           name="description"
