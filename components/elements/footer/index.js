@@ -53,8 +53,13 @@ const Footer = () => {
                   <p className={styles.linkText}>Report a Problem</p>
                 </a>
               </Link>
+              <Link href="https://linkedgolfapp.com/privacy">
+                <a target="_blank">
+                  <p className={styles.linkText}>Privacy Policy</p>
+                </a>
+              </Link>
             </div>
-            <p className={styles.copyright_Text}>Copyright 2022</p>
+            <p className={styles.copyright_Text}>Copyright 2023</p>
           </div>
           <div className={styles.colthree}>
             <div className={styles.qrScanner__cardBox}>
