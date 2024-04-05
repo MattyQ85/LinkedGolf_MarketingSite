@@ -23,7 +23,7 @@ const DeleteAccount = () => {
             alt="Step 1"
             width={210}
             height={410}
-            style={{ borderRadius: "33px 28px 33px 28px" }}
+            className={styles.image}
           />
           <p>Click on settings</p>
         </div>
@@ -34,7 +34,7 @@ const DeleteAccount = () => {
             alt="Step 2"
             width={210}
             height={410}
-            style={{ borderRadius: "33px 28px 33px 28px" }}
+            className={styles.image}
           />
           <p>Click on leave feedback</p>
         </div>
@@ -45,7 +45,7 @@ const DeleteAccount = () => {
             alt="Step 3"
             width={210}
             height={410}
-            style={{ borderRadius: "33px 28px 33px 28px" }}
+            className={styles.image}
           />
           <p>Click on delete account</p>
         </div>
@@ -56,7 +56,7 @@ const DeleteAccount = () => {
             alt="Step 4"
             width={210}
             height={410}
-            style={{ borderRadius: "33px 28px 33px 28px" }}
+            className={styles.image}
           />
           <p>Click on delete option</p>
         </div>
