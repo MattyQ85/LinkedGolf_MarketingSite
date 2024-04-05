@@ -9,3 +9,4 @@ export { default as FeaturesSection } from "./home/features";
 export { default as GolfCoursesSection } from "./home/golfCourses";
 export { default as GolfCommunitySection } from "./home/golfCommunitySection";
 export { default as DownloadAppSection } from "./home/downloadApp";
+export { default as DeleteAccount } from "./home/deleteAccount";

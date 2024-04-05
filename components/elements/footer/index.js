@@ -5,7 +5,6 @@ import Image from "next/image";
 import { SocialMediaPlatforms } from "../../../mocks/socialMediaPlatforms";
 
 import styles from "./footer.module.scss";
-
 import Logo from "../../../assets/images/LinkedGolfLogo__dark.png";
 import DottedIllustrationImage from "../../../assets/images/hero/dots__footer.png";
 import QRCodeScanner from "../../../assets/images/qr-code.svg";
@@ -43,6 +42,11 @@ const Footer = () => {
           </div>
           <div className={styles.colSecond}>
             <div className={styles.linksBox}>
+              <Link href="/deleteAccount">
+                <a target="_blank">
+                  <p className={styles.linkText}>Delete Account</p>
+                </a>
+              </Link>
               <Link href="https://forms.gle/N59P3CSKaNw793118">
                 <a target="_blank">
                   <p className={styles.linkText}>Contact Us</p>
