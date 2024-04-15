@@ -37,7 +37,7 @@ const HeroSection = () => {
             </p>
             <div className={styles.downloadButtons}>
               <div className={styles.platformButtonBox}>
-                <Link href="/">
+                <Link href="https://apps.apple.com/us/app/linked-golf/id1619093321">
                   <a>
                     <Image
                       src={AppStoreDownloadButton}
@@ -47,7 +47,7 @@ const HeroSection = () => {
                 </Link>
               </div>
               <div className={styles.platformButtonBox}>
-                <Link href="/">
+                <Link href="https://play.google.com/store/apps/details?id=com.linkedgolfapp.mobile">
                   <a>
                     <Image
                       src={GooglePlayDownloadButton}
